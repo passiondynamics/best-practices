@@ -6,7 +6,7 @@
   - Python's `pipenv`/`pip`,
   - npm's `package.json`,
   - Rust's `Cargo.lock`,
-  - Java's Gradle or Maven,
+  - Java's `Gradle` or `Maven`,
   - Go's built-in modules,
   - etc.
 - Unit testing is required, and **good** unit testing is the bare minimum!
