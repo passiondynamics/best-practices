@@ -18,6 +18,10 @@ practices as we go.`
 
 More [here](docs/code.md).
 
+### Per-language
+
+[Python](docs/python.md)
+
 ## Repository settings
 
 See [here](docs/repo.md).
