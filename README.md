@@ -13,11 +13,11 @@
 
 ## Code
 
-- Start off with "put in your best effort into writing good code". Subjective for now, but will append explicit
-  practices as we go.
-- Each repository should use a virtual environment/package manager/dependency framework. Examples of what we mean:
-  - Python's `pipenv`/`pip`,
-  - npm's `package.json`,
-  - Rust's `Cargo.lock`,
-  - Java's Gradle or Maven, and
-  - etc.
+TL;DR: `Start off with "put in your best effort into writing good code". Subjective for now, but will append explicit
+practices as we go.`
+
+More [here](docs/code.md).
+
+## Repository settings
+
+See [here](docs/repo.md).
