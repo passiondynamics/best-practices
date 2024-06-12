@@ -26,3 +26,10 @@
     - Rust's and Go's built-in frameworks.
 - Integration testing is required (except in special cases). Examples:
   - Python's `behave`
+- Comment your code! Explain something to future-you when you look back at this complex logic you fever-dreamed up and
+  won't understand why you wrote it like this.
+  - Once you get a hang of it, the next level is less: commenting what's going on, and more: **why** it's written this
+    way. More experienced developers can read your code and figure out what it's actually doing, but understanding why
+    it has to work this way instead of some other way is something you can shed a lot of light on.
+- Never hardcode secrets! That includes API keys, tokens, or any sensitive strings that would give access to something you
+  don't want a determined actor to have.
