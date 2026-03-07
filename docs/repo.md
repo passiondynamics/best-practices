@@ -5,7 +5,7 @@
 |Repository name|Any name in kebab case|https://developer.mozilla.org/en-US/docs/Glossary/Kebab_case|
 |Visibility|`Public`|
 |Add a README file|:heavy_check_mark:|
-|License|TODO|
+|License|AGPL-3.0 license|
 |About settings > Include in the home page|`Deployments`|All others can be turned off.|
 |Settings > General > Features|`Issues` + `Projects`|All others can be turned off.|
 |Allow merge commits|:x:|
